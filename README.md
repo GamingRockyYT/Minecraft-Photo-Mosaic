@@ -4,7 +4,7 @@ Sorry for any trouble I'm just a junior programmer
 
 Put the folder "Minecraft Photo Mosaic" into your desktop
 
-Download "textures" from this link and put it in "Minecraft Photo Mosaic"
+Unzip the textures folder
 
 Change line 66 into your own directory
 
